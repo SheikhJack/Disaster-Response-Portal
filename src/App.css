@@ -43,10 +43,12 @@ body {
 
 .sidebar ul {
   margin-bottom: 0px;
+  margin-top: 50px;
+
+
 }
 .sidebar ul li {
   width: 100%;
-
   align-items: center;
   list-style: none;
 }
